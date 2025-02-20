@@ -1,6 +1,6 @@
 // Exercícios sobre loops
 
-// Exercicio loops 3
+// Exercicio loops 3 ----
 
 let numero = prompt('Informe um número:');
 while (numero >= 0) {
